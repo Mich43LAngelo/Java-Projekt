@@ -1,0 +1,22 @@
+gameZal/level/Bird.java
+ gameZal.level.Bird
+gameZal/services/ScoreService.java
+ gameZal.services.ScoreService
+gameZal/game/MainWindow.java
+ gameZal.game.MainWindow
+gameZal/level/TextMessages.java
+ gameZal.level.TextMessages
+gameZal/level/Ground.java
+ gameZal.level.Ground
+gameZal/game/BoardFlappyBird.java
+ gameZal.game.BoardFlappyBird
+ gameZal.game.BoardFlappyBird$1
+ gameZal.game.BoardFlappyBird$MyKeyAdapter
+gameZal/services/CollisionService.java
+ gameZal.services.CollisionService
+gameZal/level/Pipes.java
+ gameZal.level.Pipes
+ gameZal.level.Pipes$1
+ gameZal.level.Pipes$Pipe
+FlappyBirdRunner.java
+ FlappyBirdRunner
